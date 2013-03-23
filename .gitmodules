@@ -1,0 +1,78 @@
+[submodule "1/senkov"]
+	path = 1/senkov
+	url = git@github.com:bsuir250502/lab1_Senkov.git
+[submodule "3/haisenko"]
+	path = 3/haisenko
+	url = git@github.com:bsuir250502/lab3_haisenko.git
+[submodule "2/kungurov"]
+	path = 2/kungurov
+	url = git@github.com:bsuir250502/Lab2_Kungurov.git
+[submodule "sudoku/sharayev"]
+	path = sudoku/sharayev
+	url = git@github.com:bsuir250502/Pract1_Sudoku_Sharayev.git
+[submodule "1/simonchik"]
+	path = 1/simonchik
+	url = git@github.com:bsuir250502/lab1_simonchik.git
+[submodule "2/simonchik"]
+	path = 2/simonchik
+	url = git@github.com:bsuir250502/lab2_simonchik.git
+[submodule "1/sharayev"]
+	path = 1/sharayev
+	url = git@github.com:bsuir250502/Lab1_Sharayev.git
+[submodule "1/babinets"]
+	path = 1/babinets
+	url = git@github.com:bsuir250502/lab1_babinets.git
+[submodule "1/haisenko"]
+	path = 1/haisenko
+	url = git@github.com:bsuir250502/lab1_haisenko.git
+[submodule "1/kovalev"]
+	path = 1/kovalev
+	url = git@github.com:bsuir250502/Lab1_Kovalev.git
+[submodule "1/gnatyk"]
+	path = 1/gnatyk
+	url = git@github.com:bsuir250502/Lab1_Gnatyk.git
+[submodule "1/starikevich"]
+	path = 1/starikevich
+	url = git@github.com:bsuir250502/Lab1_Starikevich.git
+[submodule "1/shved"]
+	path = 1/shved
+	url = git@github.com:bsuir250502/Lab1_Shved.git
+[submodule "2/haisenko"]
+	path = 2/haisenko
+	url = git@github.com:bsuir250502/lab2_haisenko.git
+[submodule "2/konovalov"]
+	path = 2/konovalov
+	url = git@github.com:bsuir250502/lab2_konovalov.git
+[submodule "1/alehin"]
+	path = 1/alehin
+	url = git@github.com:bsuir250502/Lab1_Alehin.git
+[submodule "1/konovalov"]
+	path = 1/konovalov
+	url = git@github.com:bsuir250502/lab1_Konovalov.git
+[submodule "1/kungurov"]
+	path = 1/kungurov
+	url = git@github.com:bsuir250502/Lab1_Kungurov.git
+[submodule "1/emeljanchik"]
+	path = 1/emeljanchik
+	url = git@github.com:bsuir250502/Lab1_Emeljanchik.git
+[submodule "2/prilutskiy"]
+	path = 2/prilutskiy
+	url = git@github.com:bsuir250502/Lab2_Prilutskiy.git
+[submodule "1/prilutskiy"]
+	path = 1/prilutskiy
+	url = git@github.com:bsuir250502/Lab1_Prilutskiy.git
+[submodule "sudoku/konovalov"]
+	path = sudoku/konovalov
+	url = git@github.com:bsuir250502/Pract1_Sudoku_Konovalov.git
+[submodule "1/dyachenko"]
+	path = 1/dyachenko
+	url = git@github.com:bsuir250502/lab1_dyachenko.git
+[submodule "1/kuntsevich"]
+	path = 1/kuntsevich
+	url = git@github.com:bsuir250502/lab1_KUNTSEVICH.git
+[submodule "1/kudrin"]
+	path = 1/kudrin
+	url = git@github.com:bsuir250502/Lab1_Kydrin.git
+[submodule "1/savich"]
+	path = 1/savich
+	url = git@github.com:bsuir250502/lab1_savich.git
