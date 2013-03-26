@@ -76,3 +76,12 @@
 [submodule "1/savich"]
 	path = 1/savich
 	url = git@github.com:bsuir250502/lab1_savich.git
+[submodule "2/alehin"]
+	path = 2/alehin
+	url = git@github.com:bsuir250502/Lab2_Alehin.git
+[submodule "2/senkov"]
+	path = 2/senkov
+	url = git@github.com:bsuir250502/Lab2_Senkov.git
+[submodule "2/gnatyk"]
+	path = 2/gnatyk
+	url = git@github.com:bsuir250502/lab2_Gnatyk.git
