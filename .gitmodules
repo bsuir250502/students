@@ -85,3 +85,9 @@
 [submodule "2/gnatyk"]
 	path = 2/gnatyk
 	url = git@github.com:bsuir250502/lab2_Gnatyk.git
+[submodule "life/kungurov"]
+	path = life/kungurov
+	url = git@github.com:bsuir250502/Pract1_Life_Kungurov.git
+[submodule "2/sharayev"]
+	path = 2/sharayev
+	url = git@github.com:bsuir250502/Lab2_Sharayev.git
